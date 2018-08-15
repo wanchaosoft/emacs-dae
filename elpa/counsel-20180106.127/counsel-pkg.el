@@ -1,0 +1,1 @@
+(define-package "counsel" "20180106.127" "Various completion functions using Ivy" '((emacs "24.3") (swiper "0.9.0")) :commit "e5c5037fd5f2735b11fc90363f312431619fa8c2" :url "https://github.com/abo-abo/swiper" :keywords '("completion" "matching"))
